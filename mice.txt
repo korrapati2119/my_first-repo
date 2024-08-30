@@ -1,0 +1,5 @@
+m mammal
+o optical (change on line 2)
+u unique (change on line 3)
+s small
+e eager
