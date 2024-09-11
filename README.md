@@ -9,3 +9,6 @@ it increases the **leadership** qualities <br> and can increases the communicati
 
 ***
 
+* rohit
+* gill
+* dhoni
