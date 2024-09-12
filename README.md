@@ -34,3 +34,12 @@ CHECK THESE [my fav one](MyDish.md) . you can try..!!
  | PALNADU Spices | The ambience is good and they use local chillies for tastes | Palnadu |
  | Nawabs     | The best dum is available here | Hyderabad |
  | V royal park | the best wings biryani is available | Guntur |
+
+***
+### Jokes
+
+Telugu ones...!!
+
+> " hey adjust some money. no matter how much is the interest. because we do not pay" - _DD_
+>
+> " do not roam with them because no one will see you " - _MANOJ_
