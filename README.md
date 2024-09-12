@@ -43,3 +43,20 @@ Telugu ones...!!
 > " hey adjust some money. no matter how much is the interest. because we do not pay" - _DD_
 >
 > " do not roam with them because no one will see you " - _MANOJ_
+
+***
+
+### Fencing
+
+to pick properties from interface in TypeScript
+```typescript
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+type MyShortType = Pick;
+
+for more click [this link](https://code.pieces.app/collections/typescript).
+
