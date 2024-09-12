@@ -57,6 +57,6 @@ interface MyInterface {
 }
 
 type MyShortType = Pick;
-
-for more click [this link](https://code.pieces.app/collections/typescript).
+[label](http://example.com)
+for more click [this link]('https://code.pieces.app/collections/typescript').
 ```
